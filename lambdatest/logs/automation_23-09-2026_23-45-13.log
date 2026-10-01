@@ -1,0 +1,21 @@
+23-09-2026 23:45:14 - INFO - ====== WebDriver manager ======
+23-09-2026 23:45:15 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+23-09-2026 23:45:16 - INFO - Chrome browser launched successfully
+23-09-2026 23:45:16 - INFO - Test passed: test_product_search_returns_matching_results
+23-09-2026 23:45:24 - INFO - Test passed: test_product_search_returns_matching_results
+23-09-2026 23:45:26 - INFO - Chrome browser closed
+23-09-2026 23:45:26 - INFO - Test passed: test_product_search_returns_matching_results
+23-09-2026 23:45:26 - INFO - ====== WebDriver manager ======
+23-09-2026 23:45:27 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+23-09-2026 23:45:28 - INFO - Chrome browser launched successfully
+23-09-2026 23:45:28 - INFO - Test passed: test_product_search_shows_no_results_message
+23-09-2026 23:45:38 - INFO - Test passed: test_product_search_shows_no_results_message
+23-09-2026 23:45:40 - INFO - Chrome browser closed
+23-09-2026 23:45:40 - INFO - Test passed: test_product_search_shows_no_results_message
+23-09-2026 23:45:40 - INFO - ====== WebDriver manager ======
+23-09-2026 23:45:41 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+23-09-2026 23:45:42 - INFO - Chrome browser launched successfully
+23-09-2026 23:45:42 - INFO - Test passed: test_add_product_to_cart
+23-09-2026 23:46:02 - ERROR - Test failed: test_add_product_to_cart, screenshot saved: reports/test_add_product_to_cart_23-09-2026_23-46-02.png
+23-09-2026 23:46:05 - INFO - Chrome browser closed
+23-09-2026 23:46:05 - INFO - Test passed: test_add_product_to_cart

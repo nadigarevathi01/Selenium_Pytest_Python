@@ -1,0 +1,21 @@
+23-09-2026 23:41:18 - INFO - ====== WebDriver manager ======
+23-09-2026 23:41:19 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+23-09-2026 23:41:21 - INFO - Chrome browser launched successfully
+23-09-2026 23:41:21 - INFO - Test passed: test_product_search_returns_matching_results
+23-09-2026 23:41:40 - ERROR - Test failed: test_product_search_returns_matching_results, screenshot saved: reports/test_product_search_returns_matching_results_23-09-2026_23-41-40.png
+23-09-2026 23:41:43 - INFO - Chrome browser closed
+23-09-2026 23:41:43 - INFO - Test passed: test_product_search_returns_matching_results
+23-09-2026 23:41:43 - INFO - ====== WebDriver manager ======
+23-09-2026 23:41:44 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+23-09-2026 23:41:46 - INFO - Chrome browser launched successfully
+23-09-2026 23:41:46 - INFO - Test passed: test_product_search_shows_no_results_message
+23-09-2026 23:42:04 - ERROR - Test failed: test_product_search_shows_no_results_message, screenshot saved: reports/test_product_search_shows_no_results_message_23-09-2026_23-42-03.png
+23-09-2026 23:42:06 - INFO - Chrome browser closed
+23-09-2026 23:42:06 - INFO - Test passed: test_product_search_shows_no_results_message
+23-09-2026 23:42:06 - INFO - ====== WebDriver manager ======
+23-09-2026 23:42:08 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+23-09-2026 23:42:09 - INFO - Chrome browser launched successfully
+23-09-2026 23:42:09 - INFO - Test passed: test_add_product_to_cart
+23-09-2026 23:42:26 - ERROR - Test failed: test_add_product_to_cart, screenshot saved: reports/test_add_product_to_cart_23-09-2026_23-42-26.png
+23-09-2026 23:42:29 - INFO - Chrome browser closed
+23-09-2026 23:42:29 - INFO - Test passed: test_add_product_to_cart

@@ -1,0 +1,21 @@
+23-09-2026 23:38:10 - INFO - ====== WebDriver manager ======
+23-09-2026 23:38:10 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+23-09-2026 23:38:12 - INFO - Chrome browser launched successfully
+23-09-2026 23:38:12 - INFO - Test passed: test_account_reg_with_error_capture
+23-09-2026 23:38:27 - INFO - Test passed: test_account_reg_with_error_capture
+23-09-2026 23:38:29 - INFO - Chrome browser closed
+23-09-2026 23:38:29 - INFO - Test passed: test_account_reg_with_error_capture
+23-09-2026 23:38:29 - INFO - ====== WebDriver manager ======
+23-09-2026 23:38:30 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+23-09-2026 23:38:32 - INFO - Chrome browser launched successfully
+23-09-2026 23:38:32 - INFO - Test passed: test_login
+23-09-2026 23:38:38 - INFO - Test passed: test_login
+23-09-2026 23:38:40 - INFO - Chrome browser closed
+23-09-2026 23:38:40 - INFO - Test passed: test_login
+23-09-2026 23:38:40 - INFO - ====== WebDriver manager ======
+23-09-2026 23:38:41 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+23-09-2026 23:38:42 - INFO - Chrome browser launched successfully
+23-09-2026 23:38:42 - INFO - Test passed: test_open_site
+23-09-2026 23:38:49 - INFO - Test passed: test_open_site
+23-09-2026 23:38:51 - INFO - Chrome browser closed
+23-09-2026 23:38:51 - INFO - Test passed: test_open_site

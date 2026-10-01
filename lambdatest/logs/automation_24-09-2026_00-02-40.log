@@ -1,0 +1,27 @@
+24-09-2026 00:02:41 - INFO - ====== WebDriver manager ======
+24-09-2026 00:02:46 - INFO - Get LATEST chromedriver version for google-chrome
+24-09-2026 00:02:48 - INFO - Get LATEST chromedriver version for google-chrome
+24-09-2026 00:02:48 - INFO - WebDriver version 153.0.8010.52 selected
+24-09-2026 00:02:48 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/153.0.8010.52/win64/chromedriver-win64.zip
+24-09-2026 00:02:48 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/153.0.8010.52/win64/chromedriver-win64.zip
+24-09-2026 00:02:49 - INFO - Driver downloading response is 200
+24-09-2026 00:02:56 - INFO - Driver has been saved in cache [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52]
+24-09-2026 00:03:00 - INFO - Chrome browser launched successfully
+24-09-2026 00:03:00 - INFO - Test passed: test_product_search_returns_matching_results
+24-09-2026 00:03:13 - INFO - Test passed: test_product_search_returns_matching_results
+24-09-2026 00:03:15 - INFO - Chrome browser closed
+24-09-2026 00:03:15 - INFO - Test passed: test_product_search_returns_matching_results
+24-09-2026 00:03:15 - INFO - ====== WebDriver manager ======
+24-09-2026 00:03:17 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+24-09-2026 00:03:20 - INFO - Chrome browser launched successfully
+24-09-2026 00:03:20 - INFO - Test passed: test_product_search_shows_no_results_message
+24-09-2026 00:03:31 - INFO - Test passed: test_product_search_shows_no_results_message
+24-09-2026 00:03:33 - INFO - Chrome browser closed
+24-09-2026 00:03:33 - INFO - Test passed: test_product_search_shows_no_results_message
+24-09-2026 00:03:34 - INFO - ====== WebDriver manager ======
+24-09-2026 00:03:36 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+24-09-2026 00:03:39 - INFO - Chrome browser launched successfully
+24-09-2026 00:03:39 - INFO - Test passed: test_add_product_to_cart
+24-09-2026 00:04:03 - ERROR - Test failed: test_add_product_to_cart, screenshot saved: reports/test_add_product_to_cart_24-09-2026_00-04-03.png
+24-09-2026 00:04:05 - INFO - Chrome browser closed
+24-09-2026 00:04:05 - INFO - Test passed: test_add_product_to_cart

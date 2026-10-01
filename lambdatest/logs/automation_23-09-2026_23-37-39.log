@@ -1,0 +1,7 @@
+23-09-2026 23:37:40 - INFO - ====== WebDriver manager ======
+23-09-2026 23:37:41 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+23-09-2026 23:37:42 - INFO - Chrome browser launched successfully
+23-09-2026 23:37:42 - INFO - Test passed: test_account_reg_with_error_capture
+23-09-2026 23:37:54 - INFO - Test passed: test_account_reg_with_error_capture
+23-09-2026 23:37:57 - INFO - Chrome browser closed
+23-09-2026 23:37:57 - INFO - Test passed: test_account_reg_with_error_capture

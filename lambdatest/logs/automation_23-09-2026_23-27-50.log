@@ -1,0 +1,29 @@
+23-09-2026 23:27:50 - INFO - ====== WebDriver manager ======
+23-09-2026 23:27:54 - INFO - Get LATEST chromedriver version for google-chrome
+23-09-2026 23:27:54 - INFO - There is no [win64] chromedriver "153.0.8010.52" for browser google-chrome "153.0.8010" in cache
+23-09-2026 23:27:55 - INFO - There is no [win64] chromedriver "153.0.8010.52" for browser google-chrome "153.0.8010" in cache
+23-09-2026 23:27:55 - INFO - Get LATEST chromedriver version for google-chrome
+23-09-2026 23:27:56 - INFO - WebDriver version 153.0.8010.52 selected
+23-09-2026 23:27:56 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/153.0.8010.52/win64/chromedriver-win64.zip
+23-09-2026 23:27:56 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/153.0.8010.52/win64/chromedriver-win64.zip
+23-09-2026 23:27:57 - INFO - Driver downloading response is 200
+23-09-2026 23:28:01 - INFO - Driver has been saved in cache [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52]
+23-09-2026 23:28:08 - INFO - Chrome browser launched successfully
+23-09-2026 23:28:08 - INFO - Test passed: test_account_reg_with_error_capture
+23-09-2026 23:28:30 - INFO - Test passed: test_account_reg_with_error_capture
+23-09-2026 23:28:32 - INFO - Chrome browser closed
+23-09-2026 23:28:32 - INFO - Test passed: test_account_reg_with_error_capture
+23-09-2026 23:28:32 - INFO - ====== WebDriver manager ======
+23-09-2026 23:28:34 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+23-09-2026 23:28:36 - INFO - Chrome browser launched successfully
+23-09-2026 23:28:36 - INFO - Test passed: test_login
+23-09-2026 23:28:52 - INFO - Test passed: test_login
+23-09-2026 23:28:55 - INFO - Chrome browser closed
+23-09-2026 23:28:55 - INFO - Test passed: test_login
+23-09-2026 23:28:55 - INFO - ====== WebDriver manager ======
+23-09-2026 23:28:56 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+23-09-2026 23:28:58 - INFO - Chrome browser launched successfully
+23-09-2026 23:28:58 - INFO - Test passed: test_open_site
+23-09-2026 23:29:04 - INFO - Test passed: test_open_site
+23-09-2026 23:29:07 - INFO - Chrome browser closed
+23-09-2026 23:29:07 - INFO - Test passed: test_open_site

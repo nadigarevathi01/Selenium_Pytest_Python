@@ -1,0 +1,7 @@
+24-09-2026 00:05:38 - INFO - ====== WebDriver manager ======
+24-09-2026 00:05:39 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\153.0.8010.52\chromedriver-win64/chromedriver.exe] found in cache by browser version
+24-09-2026 00:05:41 - INFO - Chrome browser launched successfully
+24-09-2026 00:05:41 - INFO - Test passed: test_add_product_to_cart
+24-09-2026 00:06:03 - ERROR - Test failed: test_add_product_to_cart, screenshot saved: reports/test_add_product_to_cart_24-09-2026_00-06-03.png
+24-09-2026 00:06:05 - INFO - Chrome browser closed
+24-09-2026 00:06:05 - INFO - Test passed: test_add_product_to_cart
